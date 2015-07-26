@@ -1,0 +1,13 @@
+CONTIKI  = ../..
+CFLAGS += -DPROJECT_CONF_H=\"project-conf.h\"
+CONTIKI_SOURCEFILES += definitions.c
+
+%.o: %.c definitions.h
+	gcc -Wall -c -o $@ $<
+
+all: redelca-main.o definitions.o
+	gcc redelca-main.c
+
+CONTIKI_PROJECT = ../..
+
+include $(CONTIKI)/Makefile.include
