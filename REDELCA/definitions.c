@@ -37,11 +37,7 @@
  * Phivos Phivou, Computer Science Department, University of Crete.
  *
  * email: fivou@csd.uoc.gr, apanouso@ics.forth.gr
- *
- * How to cite this code: 
- * P. Phivou, A. Panousopoulou, and P. Tsakalides, ``On Realizing Distributed Topology Control in Low-power IoT Platforms'', submitted for puiblication at IEEE WF-IoT, 2015.
- *
- * 
+  
  * This code has been writted for contiki-2.7 distribution.
 */
 
