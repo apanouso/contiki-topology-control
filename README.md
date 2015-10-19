@@ -42,6 +42,12 @@ Distributed Topology Control in Contiki
  *      Phivos Phivou <fivou@csd.uoc.gr>, Nancy Panousopoulou - <apanouso@ics.forth.gr>
  *	
  */
+If you find any of this library useful for your research, please give credit in your publications where it is due.
+How to cite this work:
+Phivou Phivos, Panousopoulou Athanasia, and Tsakalides Panagiotes, "On Realizing Distributed Topology Control in
+Low-power IoT Platforms", to appear at the 2015 IEEE 2nd World Forum on Internet of Things (WF-IoT) - Enabling Internet Evolution.
+
+
 
 -------------------------------------------------
 REPOSITORY CONTENTS
